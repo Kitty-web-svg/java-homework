@@ -1,4 +1,4 @@
-import java.util.Scanner;
+mvn –versionimport java.util.Scanner;
 public class TestDoor{
     protected boolean isOpen = false;
     public void openDoor(){
